@@ -7,3 +7,8 @@ workflows:
     "Hello Workflow":
         jobs:
           - hello/hello-build
+          build:
+            steps:
+              - run:
+              name: test
+              command: npm test

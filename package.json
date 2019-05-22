@@ -1,0 +1,24 @@
+{
+  "name": "circle-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "enzyme": "^2.7.0",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmtry/circle-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmtry/circle-ci/issues"
+  },
+  "homepage": "https://github.com/rmtry/circle-ci#readme"
+}
